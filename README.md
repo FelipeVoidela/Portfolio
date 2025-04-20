@@ -1,6 +1,6 @@
 # Portfólio - Felipe Voidela Toledo
 
-Bem-vindo ao meu portfólio online! Este projeto tem como objetivo apresentar minhas habilidades, educação e os projetos que estou desenvolvendo como Engenheiro de Software. 
+Bem-vindo ao meu portfólio! Este projeto tem como objetivo apresentar minhas habilidades, educação e os projetos que estou desenvolvendo como Engenheiro de Software. 
 
 ## Descrição
 
