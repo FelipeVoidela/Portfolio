@@ -18,7 +18,7 @@ Este é um portfólio pessoal desenvolvido utilizando HTML, CSS, Bootstrap, Font
 - **CSS3:** Estilo e responsividade.
 - **Bootstrap:** Framework para criação de layouts responsivos e componentes reutilizáveis.
 - **Font Awesome:** Ícones para links e redes sociais.
-- **JavaScript (opcional):** Interatividade e animações (caso esteja presente no arquivo `script.js`).
+- **JavaScript:** Interatividade e animações .
 
 ## Como Usar
 
