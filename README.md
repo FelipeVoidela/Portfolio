@@ -24,4 +24,4 @@ Este é um portfólio pessoal desenvolvido utilizando HTML, CSS, Bootstrap, Font
 
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone https://github.com/FelipeVoidela/Portf-lio.git
+   git clone https://github.com/FelipeVoidela/Portfolio
